@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{35B002B2-46D8-E004-C510-3B3E0E7AF077}") = "Doggy Run - Unity", "Assembly-CSharp.csproj", "{954CC613-8643-CD6E-B625-41E86F14CEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954CC613-8643-CD6E-B625-41E86F14CEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954CC613-8643-CD6E-B625-41E86F14CEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954CC613-8643-CD6E-B625-41E86F14CEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954CC613-8643-CD6E-B625-41E86F14CEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

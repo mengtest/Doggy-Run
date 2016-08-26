@@ -1,0 +1,34 @@
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/obj/Debug/Assembly-CSharp.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/UnityEngine.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/UnityEditor.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yijunhu/Projects/UnityProjects/Dogs vs. Cats/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/obj/Debug/Assembly-CSharp.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/UnityEngine.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/UnityEditor.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yijunhu/Projects/Doggy Run - Unity/Temp/bin/Debug/Mono.Cecil.Mdb.dll
