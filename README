@@ -1,3 +1,11 @@
+Doggy Run Game
+-------------
+
+The object of the game is to see how long you can run or how high of a score you can get. You have to run as long as you can avoiding bushes and crates while collecting as many coins and mushrooms as you go.
+
+You will start of with 3 lives. If you crash into a bush you will lose 1 life and if you eat a mushroom you will gain 1 life. If you lose all 3 lives or crash into a crate you will immediately lose the game. The score increases everytime you get a coin or for every 5 seconds in which you are still alive.
+
+
 Images from the following:
 http://opengameart.org/content/cat-dog-free-sprites
 http://opengameart.org/content/free-platformer-game-tileset
